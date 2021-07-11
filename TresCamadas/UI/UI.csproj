@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{12EB3848-6ED6-4FCF-A99F-77C734F393E6}</ProjectGuid>
+    <ProjectGuid>{893C1432-A8EE-4C1B-95BD-F6D05C282CD6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TresCamadas</RootNamespace>
-    <AssemblyName>TresCamadas</AssemblyName>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

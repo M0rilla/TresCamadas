@@ -1,5 +1,5 @@
 ﻿
-namespace TresCamadas
+namespace UI
 {
     partial class Form1
     {
