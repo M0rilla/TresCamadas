@@ -1,0 +1,6 @@
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\Database\bin\Debug\Database.dll
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\Database\bin\Debug\Database.pdb
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\Database\obj\Debug\Database.dll
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\Database\obj\Debug\Database.pdb

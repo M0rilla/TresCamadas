@@ -11,6 +11,12 @@ namespace UI
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
+        
+        // Interface chama a camada Business que chama a camada Database
+        // Business tem referencia de Database
+        // UI precisa de Business
+        // UI só precisa da referencia de Database em aplicações Windows e não em Web Apps.
+
         [STAThread]
         static void Main()
         {

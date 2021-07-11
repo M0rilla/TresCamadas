@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Business;
 
 namespace UI
 {
@@ -15,6 +16,18 @@ namespace UI
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnGravar_Click(object sender, EventArgs e)
+        {
+            var usuario = new Usuario();
+            usuario.Nome = txtNome.Text;
+            usuario.Telefone = txtTelefone.Text;
+            usuario.CPF = txtCPF.Text;
+            usuario.Gravar();
+
+            MessageBox.Show("Usuario salvo com sucesso!");
+
         }
     }
 }
