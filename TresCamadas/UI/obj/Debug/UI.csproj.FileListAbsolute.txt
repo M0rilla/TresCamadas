@@ -13,3 +13,5 @@ C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\UI\bin\Debug\Busin
 C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\UI\bin\Debug\Database.pdb
 C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\UI\obj\Debug\UI.Form1.resources
 C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\UI\bin\Debug\DatabaseSQL.dll
+C:\Users\Gustavo Morilla\source\repos\TresCamadas\TresCamadas\UI\bin\Debug\DatabaseSQL.pdb

@@ -85,9 +85,13 @@
       <Project>{7a860d04-edb0-478d-90a0-46c5f3e406cd}</Project>
       <Name>Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Database\Database.csproj">
+    <ProjectReference Include="..\DatabaseSQL\DatabaseSQL.csproj">
+      <Project>{6c04212f-2dde-414f-9414-f90f271ae2d6}</Project>
+      <Name>DatabaseSQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Database\DatabaseTXT.csproj">
       <Project>{fb8d699a-89c0-4427-837e-1d57b187a226}</Project>
-      <Name>Database</Name>
+      <Name>DatabaseTXT</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
